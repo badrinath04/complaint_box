@@ -6,3 +6,4 @@ After that log in.
 Then complaint your problem.
 Every complaint registered will be send to respective workshop coordinators automatically via email.
 Then the coordinators will respond to those complaints.
+There by reducing the time constraint for students to complaint their problems.
